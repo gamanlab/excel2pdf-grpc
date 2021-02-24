@@ -1,0 +1,1 @@
+ go build -ldflags -H=windowsgui -o release/office2pdf-grpc.exe main.go 
