@@ -8,5 +8,5 @@ func TestExcel2Pdf(t *testing.T) {
 	excel := &Excel{}
 	// excel.open("template.xlsx")
 
-	excel.Export("D:\\Projects\\go-home\\src\\github.com\\annlumia\\hawa-cems\\pkg\\office2pdf\\template")
+	excel.Export("D:\\Projects\\go-home\\src\\github.com\\gamanlab\\hawa-cems\\pkg\\office2pdf\\template")
 }

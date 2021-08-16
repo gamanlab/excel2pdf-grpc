@@ -1,4 +1,4 @@
-module github.com/annlumia/excel2pdf-grpc
+module github.com/gamanlab/excel2pdf-grpc
 
 go 1.16
 

@@ -9,8 +9,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/annlumia/excel2pdf-grpc/office2pdf"
-	"github.com/annlumia/excel2pdf-grpc/pb"
+	"github.com/gamanlab/excel2pdf-grpc/office2pdf"
+	"github.com/gamanlab/excel2pdf-grpc/pb"
 	"github.com/teris-io/shortid"
 	"google.golang.org/grpc"
 )
